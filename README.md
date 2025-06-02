@@ -24,7 +24,7 @@ This repository contains a collection of machine learning projects that were pre
 
 ### 🩺 2. Diabetic Prediction
 - **Description**: A classification model that determines whether a person is likely to have diabetes based on medical features (e.g., BMI, glucose levels).
-- **Techniques**: Logistic Regression, Decision Trees, Evaluation Metrics
+- **Techniques**: KNN, SVM, Evaluation Metrics
 - **Goal**: Demonstrate medical data analysis using supervised learning.
 
 ---
@@ -34,20 +34,3 @@ This repository contains a collection of machine learning projects that were pre
 - **Techniques**: Linear Regression, Data Normalization, Error Metrics
 - **Goal**: Use regression to understand and anticipate business spending patterns.
 
----
-
-## 🚀 How to Use
-You can explore each project individually in its own folder. The notebooks are written in Python and can be opened using **Google Colab** for easy execution.
-
----
-
-## 👨‍💻 Author
-**[Your Name]**  
-Machine Learning Enthusiast & Workshop Instructor
-
-Feel free to fork, explore, or contribute!
-
----
-
-## 📜 License
-This repository is open-source and available under the [MIT License](LICENSE).
